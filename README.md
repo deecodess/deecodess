@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepanshi Sharma</h1>
-<h3 align="center">An enthusiastic learner, naughty photographer, avid traveller.</h3>
+<h3 align="center">An enthusiastic learner & avid traveller.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deecodess&label=Profile%20views&color=0e75b6&style=flat" alt="deecodess" /> </p>
 
