@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Deep Learning.<br><br>🌱 I’m currently learning Generative adversarial networks.<br><br>👯 I’m looking to collaborate on Machine Learning.<br><br>🤝 I’m looking for help with Data Structures and Algorithms.<br><br>📫 How to reach me deepanshisharma05@gmail.com<br><br>⚡ Fun fact I am code blooded.
+🔭 I’m currently working on **Deep Learning**.<br><br>🌱 I’m currently learning **Generative adversarial networks**.<br><br>👯 I’m looking to collaborate on **Machine Learning**.<br><br>🤝 I’m looking for help with **Data Structures and Algorithms**.<br><br>📫 How to reach me deepanshisharma05@gmail.com<br><br>⚡ Fun fact I am code blooded.
 
 
 ## 🌐 Socials:
