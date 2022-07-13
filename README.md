@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deecodess&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 📊 GitHub Stats:
+## 📊 Leetcode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/deecodes?theme=dark&font=Denk%20One)
 
 ### ✍️ Random Dev Quote
