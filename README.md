@@ -18,6 +18,10 @@
 ## 📊 Leetcode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/deecodes05?theme=dark&font=Denk%20One)
 -->
+
+  ## My Holopin Board
+ <p align="center"> <img src = "https://holopin.me/deecodes"> </p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
