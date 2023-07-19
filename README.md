@@ -43,6 +43,7 @@
 | 👩‍💻 Hackathon | 🏆 Position | ⏰ Year |
 | --- | --- | --- |
 | [Smart India Hackathon](https://www.sih.gov.in/) | Winner | Aug 2022  |
+| [Google Girl Hackathon](https://buildyourfuture.withgoogle.com/programs/girl-hackathon) | Finalist | June 2023 |
 | [MLH Makeathon](https://www.linkedin.com/company/microsoft-learn-student-chapter/) | Track Winner | Mar 2022 |
 | [HackSRM](https://hacksrm.tech/) | Track Winner | May 2023 |
 | [Hacklipse](https://www.linkedin.com/company/thapar-acm-student-chapter) | 2nd Runner-Ups | Feb 2022 |
@@ -54,10 +55,10 @@
 | [GDSC TIET](https://www.linkedin.com/company/developer-student-club-thapar) | DSA Mentor | Jul 2022 - Present  |
 | [ACM Thapar](https://www.linkedin.com/company/thapar-acm-student-chapter) | Core Member | Mar 2022 - Present  |
 
-## GitHub
+<!-- ## GitHub
 ![](https://github-readme-stats.vercel.app/api?username=deecodess&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ## Leetcode
-![LeetCode Stats](https://leetcard.jacoblin.cool/deecodes05?theme=dark&font=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/deecodes05?theme=dark&font=contest) -->
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/perks_of_being_dee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshi-sharma05) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@deecodes) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/deepanshisharma10)[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/deepanshiisharma) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/deepanshii05) 
