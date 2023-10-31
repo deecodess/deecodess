@@ -34,8 +34,9 @@
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
+| [Carmony Labs](https://www.linkedin.com/company/carmonyinc) | Frontend Developer | Oct 2023-Present |
 | [Fanisko](https://www.cypherock.com) | XROS Fellow | Apr 2023 - Present |
-| [Bitcoin Satoshi Vision-Timechain Labs](https://www.google.com) | Open Source Contributor | May 2023-Present |
+
 
 
 ## Hackathon Experience
