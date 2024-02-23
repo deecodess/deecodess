@@ -1,4 +1,4 @@
-![Deepanshi Sharma](https://media.discordapp.net/attachments/806974540139200623/1109742750984835182/Yellow_And_Black_Rosa_Maria_Banner_Linkedln_Banner_2.png?width=1025&height=299)
+![Deepanshi Sharma](https://media.discordapp.net/attachments/806974540139200623/1109742750984835182/Yellow_And_Black_Rosa_Maria_Banner_Linkedln_Banner_2.png?ex=65e424f9&is=65d1aff9&hm=ad84959370cd3a732c903b32d4aff74b071601639f98ffaba20a60313335b734&=&format=webp&quality=lossless&width=1025&height=299)
 
 ## About Me
 🎓3rd Year UG at **Dept of Computer Science and Engineering, TIET, Patiala**.<br><br>💻I’m currently working on **Blockchain Development**.<br><br>🧑🏻‍💻**Open-source** and **Web3** enthusiast.<br><br> 📚 **I blog** at: [Medium](https://medium.com/@deecodes) <br><br>⚡ Fun fact: I am code blooded.<br><br>
