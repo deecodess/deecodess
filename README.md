@@ -1,7 +1,7 @@
-![Deepanshi Sharma](https://media.discordapp.net/attachments/806974540139200623/1109742750984835182/Yellow_And_Black_Rosa_Maria_Banner_Linkedln_Banner_2.png?ex=65e424f9&is=65d1aff9&hm=ad84959370cd3a732c903b32d4aff74b071601639f98ffaba20a60313335b734&=&format=webp&quality=lossless&width=1025&height=299)
+![Deepanshi Sharma](./Banner.png)
 
 ## About Me
-🎓3rd Year UG at **Dept of Computer Science and Engineering, TIET, Patiala**.<br><br>💻I’m currently working on **Blockchain Development**.<br><br>🧑🏻‍💻**Open-source** and **Web3** enthusiast.<br><br> 📚 **I blog** at: [Medium](https://medium.com/@deecodes) <br><br>⚡ Fun fact: I am code blooded.<br><br>
+🎓4th Year UG at **Dept of Computer Science and Engineering, TIET, Patiala**.<br><br>💻I’m currently working on **Blockchain Development**.<br><br>🧑🏻‍💻**Open-source** and **Web3** enthusiast.<br><br> 📚 **I blog** at: [Medium](https://medium.com/@deecodes) <br><br>⚡ Fun fact: I am code blooded.<br><br>
 
 
 
@@ -34,8 +34,9 @@
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [Carmony Labs](https://www.linkedin.com/company/carmonyinc) | Frontend Developer | Oct 2023-Present |
-| [Fanisko](https://www.cypherock.com) | XROS Fellow | Apr 2023 - Present |
+| [Salesforce](https://www.salesforce.com) | Summer Intern | May 2024 - Jul 2024 |
+| [Carmony Labs](https://www.linkedin.com/company/carmonyinc) | Frontend Developer | Oct 2023 - Apr 2024 |
+| [Fanisko](https://www.cypherock.com) | XROS Fellow | Apr 2023 - Jul 2023 |
 
 
 
@@ -53,8 +54,8 @@
 
 | 🏢 Org | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [GDSC TIET](https://www.linkedin.com/company/developer-student-club-thapar) | DSA Mentor | Jul 2022 - Present  |
-| [ACM Thapar](https://www.linkedin.com/company/thapar-acm-student-chapter) | Core Member | Mar 2022 - Present  |
+| [GDSC TIET](https://www.linkedin.com/company/developer-student-club-thapar) | DSA Mentor | Jul 2022 - Jul 2024  |
+| [ACM Thapar](https://www.linkedin.com/company/thapar-acm-student-chapter) | Core Member | Mar 2022 - Jul 2024  |
 
 <!-- ## GitHub
 ![](https://github-readme-stats.vercel.app/api?username=deecodess&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
